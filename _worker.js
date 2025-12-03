@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-const rootDomain = "egianshari.my.id"; // Ganti dengan domain utama kalian
-const serviceName = "VPN2"; // Ganti dengan nama workers kalian
+const rootDomain = "testn3.pages.dev"; // Ganti dengan domain utama kalian
+const serviceName = "vpn2"; // Ganti dengan nama workers kalian
 const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = ""; // Ganti dengan email yang kalian gunakan
 const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
